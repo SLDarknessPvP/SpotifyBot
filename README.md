@@ -1,0 +1,2 @@
+# SpotifyBot
+Spotify Bot (Discord)
